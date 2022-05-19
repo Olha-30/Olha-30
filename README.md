@@ -1,5 +1,5 @@
 <div class="header" align="center">
-  <img src="https://user-images.githubusercontent.com/67630290/169399428-206707f2-fa03-4df4-b56b-1dcd796e4106.png" width="900" height="20">
+  <img src="https://user-images.githubusercontent.com/67630290/169399428-206707f2-fa03-4df4-b56b-1dcd796e4106.png" width="700" height="20">
 </div>
 <div class="body" align="center">
   <div class="specialization">
